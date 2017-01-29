@@ -3,7 +3,7 @@ require_relative 'catalog'
 
 DELIMITER = '|'
 
-class ParideazClothingCombinationSolver
+class ParidaezClothingCombinationSolver
   attr_accessor :combinations, :grouped_catalog
 
   def initialize
@@ -18,6 +18,8 @@ class ParideazClothingCombinationSolver
 
     add_outerwear
     add_accessories
+
+    uniq_combinations_by_piece
 
     print_combinations
   end
@@ -122,10 +124,22 @@ class ParideazClothingCombinationSolver
     end
   end
 
+  # e.g. Don't allow a combination of a Hummingbird shirt + skirt.
+  # They're both the same piece.
+  def uniq_combinations_by_piece
+    joins = combinations.keys
+
+    joins.each do |join|
+      combinations[join].reject! do |comb|
+        comb.uniq { |c| c[:piece] }.size < comb.size
+      end
+    end
+  end
+
   def print_combinations
     puts "\nThe following groupings were created:\n\n"
     sorted_keys = combinations.keys.sort
-    sorted_keys.each { |key| puts "- #{key}" }
+    sorted_keys.each { |key| puts "- #{key} (#{combinations[key].size} combinations)" }
 
     puts "\nClothing combinations for each grouping:"
     variant_num = 1
@@ -133,19 +147,23 @@ class ParideazClothingCombinationSolver
     sorted_keys.each do |key|
       puts "\n- GROUP: #{key}"
 
-      combinations[key].sort_by do |comb|
-        comb.first[:name]
-      end.each do |comb|
-        puts "\n  #{variant_num}"
-        variant_num += 1
+      if combinations[key].empty?
+        puts "\n  no valid combinations"
+      else
+        combinations[key].sort_by do |comb|
+          comb.first[:name]
+        end.each do |comb|
+          puts "\n  #{variant_num}"
+          variant_num += 1
 
-        values = comb.map { |item| "#{item[:type]}: " + item[:name] }
-        values.each do |value|
-          puts "  - #{value}"
+          values = comb.map { |item| "#{item[:type]}: " + item[:name] }
+          values.each do |value|
+            puts "  - #{value}"
+          end
         end
       end
     end
   end
 end
 
-ParideazClothingCombinationSolver.new.solve
+ParidaezClothingCombinationSolver.new.solve
