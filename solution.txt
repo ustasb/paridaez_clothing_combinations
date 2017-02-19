@@ -1,0 +1,644 @@
+
+The following groupings were created:
+
+- dress (3 combinations)
+- dress|accessory (9 combinations)
+- dress|outerwear (1 combinations)
+- dress|outerwear|accessory (2 combinations)
+- dress|pants (3 combinations)
+- dress|pants|accessory (9 combinations)
+- dress|pants|outerwear (1 combinations)
+- dress|pants|outerwear|accessory (2 combinations)
+- pants|shirt (6 combinations)
+- pants|shirt|accessory (15 combinations)
+- pants|shirt|outerwear (6 combinations)
+- pants|shirt|outerwear|accessory (10 combinations)
+- pants|shirt|skirt (5 combinations)
+- pants|shirt|skirt|accessory (0 combinations)
+- pants|shirt|skirt|outerwear (5 combinations)
+- pants|shirt|skirt|outerwear|accessory (0 combinations)
+- shirt|skirt (10 combinations)
+- shirt|skirt|accessory (12 combinations)
+- shirt|skirt|outerwear (10 combinations)
+- shirt|skirt|outerwear|accessory (8 combinations)
+
+Clothing combinations for each grouping:
+
+- GROUP: dress
+
+  1
+  - dress: Albatross - Variant A
+
+  2
+  - dress: Heron - Variant A
+
+  3
+  - dress: Heron - Variant B
+
+- GROUP: dress|accessory
+
+  4
+  - dress: Albatross - Variant A
+  - shawl: Hummingbird - Variant A
+
+  5
+  - dress: Albatross - Variant A
+  - scarf: Hummingbird - Variant A
+
+  6
+  - dress: Albatross - Variant A
+  - hood: Hummingbird - Variant A
+
+  7
+  - dress: Heron - Variant A
+  - shawl: Hummingbird - Variant A
+
+  8
+  - dress: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  9
+  - dress: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  10
+  - dress: Heron - Variant B
+  - scarf: Hummingbird - Variant A
+
+  11
+  - dress: Heron - Variant B
+  - shawl: Hummingbird - Variant A
+
+  12
+  - dress: Heron - Variant B
+  - hood: Hummingbird - Variant A
+
+- GROUP: dress|outerwear
+
+  13
+  - dress: Albatross - Variant A
+  - cardigan: Heron - Variant A
+
+- GROUP: dress|outerwear|accessory
+
+  14
+  - dress: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  15
+  - dress: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+- GROUP: dress|pants
+
+  16
+  - dress: Albatross - Variant A
+  - pants: Pants - Variant A
+
+  17
+  - dress: Heron - Variant A
+  - pants: Pants - Variant A
+
+  18
+  - dress: Heron - Variant B
+  - pants: Pants - Variant A
+
+- GROUP: dress|pants|accessory
+
+  19
+  - dress: Albatross - Variant A
+  - pants: Pants - Variant A
+  - shawl: Hummingbird - Variant A
+
+  20
+  - dress: Albatross - Variant A
+  - pants: Pants - Variant A
+  - scarf: Hummingbird - Variant A
+
+  21
+  - dress: Albatross - Variant A
+  - pants: Pants - Variant A
+  - hood: Hummingbird - Variant A
+
+  22
+  - dress: Heron - Variant A
+  - pants: Pants - Variant A
+  - shawl: Hummingbird - Variant A
+
+  23
+  - dress: Heron - Variant A
+  - pants: Pants - Variant A
+  - hood: Hummingbird - Variant A
+
+  24
+  - dress: Heron - Variant A
+  - pants: Pants - Variant A
+  - scarf: Hummingbird - Variant A
+
+  25
+  - dress: Heron - Variant B
+  - pants: Pants - Variant A
+  - scarf: Hummingbird - Variant A
+
+  26
+  - dress: Heron - Variant B
+  - pants: Pants - Variant A
+  - shawl: Hummingbird - Variant A
+
+  27
+  - dress: Heron - Variant B
+  - pants: Pants - Variant A
+  - hood: Hummingbird - Variant A
+
+- GROUP: dress|pants|outerwear
+
+  28
+  - dress: Albatross - Variant A
+  - pants: Pants - Variant A
+  - cardigan: Heron - Variant A
+
+- GROUP: dress|pants|outerwear|accessory
+
+  29
+  - dress: Albatross - Variant A
+  - pants: Pants - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  30
+  - dress: Albatross - Variant A
+  - pants: Pants - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+- GROUP: pants|shirt
+
+  31
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+
+  32
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+
+  33
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+
+  34
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+
+  35
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+
+  36
+  - pants: Pants - Variant A
+  - shirt: Hummingbird - Variant A
+
+- GROUP: pants|shirt|accessory
+
+  37
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - shawl: Hummingbird - Variant A
+
+  38
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - shawl: Hummingbird - Variant A
+
+  39
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - shawl: Hummingbird - Variant A
+
+  40
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - shawl: Hummingbird - Variant A
+
+  41
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - shawl: Hummingbird - Variant A
+
+  42
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - scarf: Hummingbird - Variant A
+
+  43
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - scarf: Hummingbird - Variant A
+
+  44
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - scarf: Hummingbird - Variant A
+
+  45
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - scarf: Hummingbird - Variant A
+
+  46
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - scarf: Hummingbird - Variant A
+
+  47
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - hood: Hummingbird - Variant A
+
+  48
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - hood: Hummingbird - Variant A
+
+  49
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - hood: Hummingbird - Variant A
+
+  50
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - hood: Hummingbird - Variant A
+
+  51
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - hood: Hummingbird - Variant A
+
+- GROUP: pants|shirt|outerwear
+
+  52
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - cardigan: Heron - Variant A
+
+  53
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - cardigan: Heron - Variant A
+
+  54
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - cardigan: Heron - Variant A
+
+  55
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - cardigan: Heron - Variant A
+
+  56
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+
+  57
+  - pants: Pants - Variant A
+  - shirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+- GROUP: pants|shirt|outerwear|accessory
+
+  58
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  59
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  60
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  61
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  62
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  63
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  64
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  65
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  66
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  67
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+- GROUP: pants|shirt|skirt
+
+  68
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Hummingbird - Variant A
+
+  69
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Hummingbird - Variant A
+
+  70
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - skirt: Hummingbird - Variant A
+
+  71
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - skirt: Hummingbird - Variant A
+
+  72
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - skirt: Hummingbird - Variant A
+
+- GROUP: pants|shirt|skirt|accessory
+
+  no valid combinations
+
+- GROUP: pants|shirt|skirt|outerwear
+
+  73
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  74
+  - pants: Pants - Variant A
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  75
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant A
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  76
+  - pants: Pants - Variant A
+  - shirt: Sparrow Top - Variant B
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  77
+  - pants: Pants - Variant A
+  - shirt: Albatross - Variant A
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+- GROUP: pants|shirt|skirt|outerwear|accessory
+
+  no valid combinations
+
+- GROUP: shirt|skirt
+
+  78
+  - shirt: Albatross - Variant A
+  - skirt: Hummingbird - Variant A
+
+  79
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Hummingbird - Variant A
+
+  80
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Albatross - Variant A
+
+  81
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Hummingbird - Variant A
+
+  82
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Albatross - Variant A
+
+  83
+  - shirt: Hummingbird - Variant A
+  - skirt: Albatross - Variant A
+
+  84
+  - shirt: Sparrow Top - Variant A
+  - skirt: Hummingbird - Variant A
+
+  85
+  - shirt: Sparrow Top - Variant A
+  - skirt: Albatross - Variant A
+
+  86
+  - shirt: Sparrow Top - Variant B
+  - skirt: Hummingbird - Variant A
+
+  87
+  - shirt: Sparrow Top - Variant B
+  - skirt: Albatross - Variant A
+
+- GROUP: shirt|skirt|accessory
+
+  88
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Albatross - Variant A
+  - shawl: Hummingbird - Variant A
+
+  89
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Albatross - Variant A
+  - hood: Hummingbird - Variant A
+
+  90
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Albatross - Variant A
+  - scarf: Hummingbird - Variant A
+
+  91
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Albatross - Variant A
+  - hood: Hummingbird - Variant A
+
+  92
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Albatross - Variant A
+  - shawl: Hummingbird - Variant A
+
+  93
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Albatross - Variant A
+  - scarf: Hummingbird - Variant A
+
+  94
+  - shirt: Sparrow Top - Variant A
+  - skirt: Albatross - Variant A
+  - shawl: Hummingbird - Variant A
+
+  95
+  - shirt: Sparrow Top - Variant A
+  - skirt: Albatross - Variant A
+  - hood: Hummingbird - Variant A
+
+  96
+  - shirt: Sparrow Top - Variant A
+  - skirt: Albatross - Variant A
+  - scarf: Hummingbird - Variant A
+
+  97
+  - shirt: Sparrow Top - Variant B
+  - skirt: Albatross - Variant A
+  - scarf: Hummingbird - Variant A
+
+  98
+  - shirt: Sparrow Top - Variant B
+  - skirt: Albatross - Variant A
+  - shawl: Hummingbird - Variant A
+
+  99
+  - shirt: Sparrow Top - Variant B
+  - skirt: Albatross - Variant A
+  - hood: Hummingbird - Variant A
+
+- GROUP: shirt|skirt|outerwear
+
+  100
+  - shirt: Albatross - Variant A
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  101
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  102
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+
+  103
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  104
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+
+  105
+  - shirt: Hummingbird - Variant A
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+
+  106
+  - shirt: Sparrow Top - Variant A
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  107
+  - shirt: Sparrow Top - Variant A
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+
+  108
+  - shirt: Sparrow Top - Variant B
+  - skirt: Hummingbird - Variant A
+  - cardigan: Heron - Variant A
+
+  109
+  - shirt: Sparrow Top - Variant B
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+
+- GROUP: shirt|skirt|outerwear|accessory
+
+  110
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  111
+  - shirt: Bird of Paradise Top - Variant A
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  112
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  113
+  - shirt: Bird of Paradise Top - Variant B
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  114
+  - shirt: Sparrow Top - Variant A
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  115
+  - shirt: Sparrow Top - Variant A
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
+
+  116
+  - shirt: Sparrow Top - Variant B
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - scarf: Hummingbird - Variant A
+
+  117
+  - shirt: Sparrow Top - Variant B
+  - skirt: Albatross - Variant A
+  - cardigan: Heron - Variant A
+  - hood: Hummingbird - Variant A
